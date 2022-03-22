@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Example YANG Package API Modules"
+abbrev: "Defines some example YANG Packages"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
